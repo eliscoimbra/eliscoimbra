@@ -3,7 +3,6 @@
 Atualmente sou estudante de Ciência de Dados.
 
 ### 🧐 My Github stats...
-
  <div>
  <p align="left">
    <a href="https://github.com/eliscoimbra">
